@@ -1,0 +1,10 @@
+{
+  "color": {
+    "brand": { "coral": "#F24F5D", "coralHighlight": "#FF6A76", "coralDeep": "#C93443", "coralSoft": "#FFF0F1" },
+    "neutral": { "ink": "#141416", "inkSecondary": "#222226", "muted": "#68686F", "paper": "#FCFBFA", "surface": "#F5F3F1", "border": "#E7E5E3", "white": "#FFFFFF" },
+    "semantic": { "positive": "#15805E", "warning": "#A36400", "information": "#315AB5" }
+  },
+  "radius": { "sm": 10, "md": 16, "lg": 24, "xl": 32 },
+  "space": { "xs": 4, "sm": 8, "md": 16, "lg": 24, "xl": 40, "2xl": 64 },
+  "motion": { "fast": 180, "standard": 280, "slow": 600, "easing": "cubic-bezier(.2,.8,.2,1)" }
+}
